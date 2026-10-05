@@ -1,37 +1,37 @@
-Name,Category,Territory (lord),County,First mention (year),Preservation today,Century,,Name,Territory (lord),County,First mention (year),,Century,Bishop castle,Order castle,Vassal castle,,
-Viljandi ordulinnus,Order castle,Livonian Order,Viljandi,1224,Ruins,13th c.,,Otepää piiskopilinnus,Bishopric of Tartu,Valga,1224,,13th c.,5,8,,,
-Toompea (Tallinn) ordulinnus,Order castle,Livonian Order,Harju,1227,Preserved,13th c.,,Tartu piiskopilinnus,Bishopric of Tartu,Tartu,1224,,14th c.,4,4,,,
-Karksi ordulinnus,Order castle,Livonian Order,Viljandi,1248,Ruins,13th c.,,Lihula piiskopilinnus,Bishopric of Saare-Lääne,Pärnu,1238,,15th c.,3,2,8,,
-Rakvere ordulinnus,Order castle,Livonian Order,Lääne-Viru,1252,Ruins,13th c.,,Vana-Pärnu piiskopilinnus,Bishopric of Saare-Lääne,Pärnu,1251,,16th c.,,,2,,
-Narva Hermanni linnus,Order castle,Livonian Order,Ida-Viru,1256,Preserved,13th c.,,Haapsalu piiskopilinnus,Bishopric of Saare-Lääne,Lääne,1265,,,,,,,
-Paide ordulinnus,Order castle,Livonian Order,Järva,1265,Ruins,13th c.,,Kirumpää piiskopilinnus,Bishopric of Tartu,Võru,1322,,,,,,,
-Pärnu ordulinnus,Order castle,Livonian Order,Pärnu,1265,Destroyed,13th c.,,Vastseliina piiskopilinnus,Bishopric of Tartu,Võru,1342,,,,,,,
-Põltsamaa ordulinnus,Order castle,Livonian Order,Jõgeva,1272,Ruins,13th c.,,Kuressaare piiskopilinnus,Bishopric of Saare-Lääne,Saare,1381,,Category,Min,Q1,Q3,Max,Median
-Tarvastu ordulinnus,Order castle,Livonian Order,Viljandi,1341,Ruins,14th c.,,Uue-Kastre piiskopilinnus,Bishopric of Tartu,Tartu,1392,,Order castle,1224,1253,1344.5,1471,1268.5
-Kursi ordulinnus,Order castle,Livonian Order,Jõgeva,1343,Destroyed,14th c.,,Kiviloo piiskopilinnus,Bishopric of Tallinn,Harju,1413,,Bishop castle,1224,1247.75,1397.25,1477,1332
-Maasilinna ordulinnus,Order castle,Livonian Order,Saare,1345,Ruins,14th c.,,Koluvere piiskopilinnus,Bishopric of Saare-Lääne,Lääne,1421,,Vassal castle,1413,1458.25,1496.25,1533,1474
-Vasknarva ordulinnus,Order castle,Livonian Order,Ida-Viru,1349,Ruins,14th c.,,Porkuni piiskopilinnus,Bishopric of Tallinn,Lääne-Viru,1477,,,,,,,
-Laiuse ordulinnus,Order castle,Livonian Order,Jõgeva,1406,Ruins,15th c.,,,,,,,Preservation today,Castles,,,,
-Toolse ordulinnus,Order castle,Livonian Order,Lääne-Viru,1471,Ruins,15th c.,,,,,,,Ruins,22,,,,
-Otepää piiskopilinnus,Bishop castle,Bishopric of Tartu,Valga,1224,Ruins,13th c.,,Data link: https://et.wikipedia.org/wiki/Eesti_linnuste_loend,,,,,Destroyed,8,,,,
-Tartu piiskopilinnus,Bishop castle,Bishopric of Tartu,Tartu,1224,Destroyed,13th c.,,,,,,,Preserved,6,,,,
-Lihula piiskopilinnus,Bishop castle,Bishopric of Saare-Lääne,Pärnu,1238,Ruins,13th c.,,,,,,,,,,,,
-Vana-Pärnu piiskopilinnus,Bishop castle,Bishopric of Saare-Lääne,Pärnu,1251,Destroyed,13th c.,,,,,,,,,,,,
-Haapsalu piiskopilinnus,Bishop castle,Bishopric of Saare-Lääne,Lääne,1265,Ruins,13th c.,,,,,,,,,,,,
-Kirumpää piiskopilinnus,Bishop castle,Bishopric of Tartu,Võru,1322,Destroyed,14th c.,,,,,,,,,,,,
-Vastseliina piiskopilinnus,Bishop castle,Bishopric of Tartu,Võru,1342,Ruins,14th c.,,,,,,,,,,,,
-Kuressaare piiskopilinnus,Bishop castle,Bishopric of Saare-Lääne,Saare,1381,Preserved,14th c.,,,,,,,,,,,,
-Uue-Kastre piiskopilinnus,Bishop castle,Bishopric of Tartu,Tartu,1392,Destroyed,14th c.,,,,,,,,,,,,
-Kiviloo piiskopilinnus,Bishop castle,Bishopric of Tallinn,Harju,1413,Ruins,15th c.,,,,,,,,,,,,
-Koluvere piiskopilinnus,Bishop castle,Bishopric of Saare-Lääne,Lääne,1421,Preserved,15th c.,,,,,,,,,,,,
-Porkuni piiskopilinnus,Bishop castle,Bishopric of Tallinn,Lääne-Viru,1477,Ruins,15th c.,,,,,,,,,,,,
-Rõngu vasallilinnus,Vassal castle,Vassals of Tartu bishop,Tartu,1413,Ruins,15th c.,,,,,,,,,,,,
-Vigala vasallilinnus,Vassal castle,Vassals of Saare-Lääne bishop,Rapla,1453,Ruins,15th c.,,,,,,,,,,,,
-Sõmerpalu vasallilinnus,Vassal castle,Vassals of Tartu bishop,Võru,1456,Destroyed,15th c.,,,,,,,,,,,,
-Virtsu vasallilinnus,Vassal castle,Vassals of Saare-Lääne bishop,Pärnu,1465,Ruins,15th c.,,,,,,,,,,,,
-Rannu vasallilinnus,Vassal castle,Vassals of Tartu bishop,Tartu,1471,Destroyed,15th c.,,,,,,,,,,,,
-Edise vasallilinnus,Vassal castle,Vassals of the Order,Ida-Viru,1477,Ruins,15th c.,,,,,,,,,,,,
-Kalvi vasallilinnus,Vassal castle,Vassals of the Order,Lääne-Viru,1485,Ruins,15th c.,,,,,,,,,,,,
-Vääna vasallilinnus,Vassal castle,Vassals of the Order,Harju,1500,Ruins,15th c.,,,,,,,,,,,,
-Kiiu vasallilinnus,Vassal castle,Vassals of the Order,Harju,1520,Preserved,16th c.,,,,,,,,,,,,
-Purtse vasallilinnus,Vassal castle,Vassals of the Order,Ida-Viru,1533,Preserved,16th c.,,,,,,,,,,,,
+Name,Category,Territory (lord),County,First mention (year),Preservation today,Century
+Viljandi ordulinnus,Order castle,Livonian Order,Viljandi,1224,Ruins,13th c.
+Toompea (Tallinn) ordulinnus,Order castle,Livonian Order,Harju,1227,Preserved,13th c.
+Karksi ordulinnus,Order castle,Livonian Order,Viljandi,1248,Ruins,13th c.
+Rakvere ordulinnus,Order castle,Livonian Order,Lääne-Viru,1252,Ruins,13th c.
+Narva Hermanni linnus,Order castle,Livonian Order,Ida-Viru,1256,Preserved,13th c.
+Paide ordulinnus,Order castle,Livonian Order,Järva,1265,Ruins,13th c.
+Pärnu ordulinnus,Order castle,Livonian Order,Pärnu,1265,Destroyed,13th c.
+Põltsamaa ordulinnus,Order castle,Livonian Order,Jõgeva,1272,Ruins,13th c.
+Tarvastu ordulinnus,Order castle,Livonian Order,Viljandi,1341,Ruins,14th c.
+Kursi ordulinnus,Order castle,Livonian Order,Jõgeva,1343,Destroyed,14th c.
+Maasilinna ordulinnus,Order castle,Livonian Order,Saare,1345,Ruins,14th c.
+Vasknarva ordulinnus,Order castle,Livonian Order,Ida-Viru,1349,Ruins,14th c.
+Laiuse ordulinnus,Order castle,Livonian Order,Jõgeva,1406,Ruins,15th c.
+Toolse ordulinnus,Order castle,Livonian Order,Lääne-Viru,1471,Ruins,15th c.
+Otepää piiskopilinnus,Bishop castle,Bishopric of Tartu,Valga,1224,Ruins,13th c.
+Tartu piiskopilinnus,Bishop castle,Bishopric of Tartu,Tartu,1224,Destroyed,13th c.
+Lihula piiskopilinnus,Bishop castle,Bishopric of Saare-Lääne,Pärnu,1238,Ruins,13th c.
+Vana-Pärnu piiskopilinnus,Bishop castle,Bishopric of Saare-Lääne,Pärnu,1251,Destroyed,13th c.
+Haapsalu piiskopilinnus,Bishop castle,Bishopric of Saare-Lääne,Lääne,1265,Ruins,13th c.
+Kirumpää piiskopilinnus,Bishop castle,Bishopric of Tartu,Võru,1322,Destroyed,14th c.
+Vastseliina piiskopilinnus,Bishop castle,Bishopric of Tartu,Võru,1342,Ruins,14th c.
+Kuressaare piiskopilinnus,Bishop castle,Bishopric of Saare-Lääne,Saare,1381,Preserved,14th c.
+Uue-Kastre piiskopilinnus,Bishop castle,Bishopric of Tartu,Tartu,1392,Destroyed,14th c.
+Kiviloo piiskopilinnus,Bishop castle,Bishopric of Tallinn,Harju,1413,Ruins,15th c.
+Koluvere piiskopilinnus,Bishop castle,Bishopric of Saare-Lääne,Lääne,1421,Preserved,15th c.
+Porkuni piiskopilinnus,Bishop castle,Bishopric of Tallinn,Lääne-Viru,1477,Ruins,15th c.
+Rõngu vasallilinnus,Vassal castle,Vassals of Tartu bishop,Tartu,1413,Ruins,15th c.
+Vigala vasallilinnus,Vassal castle,Vassals of Saare-Lääne bishop,Rapla,1453,Ruins,15th c.
+Sõmerpalu vasallilinnus,Vassal castle,Vassals of Tartu bishop,Võru,1456,Destroyed,15th c.
+Virtsu vasallilinnus,Vassal castle,Vassals of Saare-Lääne bishop,Pärnu,1465,Ruins,15th c.
+Rannu vasallilinnus,Vassal castle,Vassals of Tartu bishop,Tartu,1471,Destroyed,15th c.
+Edise vasallilinnus,Vassal castle,Vassals of the Order,Ida-Viru,1477,Ruins,15th c.
+Kalvi vasallilinnus,Vassal castle,Vassals of the Order,Lääne-Viru,1485,Ruins,15th c.
+Vääna vasallilinnus,Vassal castle,Vassals of the Order,Harju,1500,Ruins,15th c.
+Kiiu vasallilinnus,Vassal castle,Vassals of the Order,Harju,1520,Preserved,16th c.
+Purtse vasallilinnus,Vassal castle,Vassals of the Order,Ida-Viru,1533,Preserved,16th c.
